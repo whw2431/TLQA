@@ -11,8 +11,8 @@ Timeline based List-Question Answering (TLQA) is a detailed subarea within the b
 
 You can run the Jupyter notebook separately depending on what you want to achieve. The contents of our code are organized as follows:
 
-- `Closed_book` folder: Contains all the model code, data, and prediction results for the closed book setting.
-- `RAG` folder: Contains all the model code, data, and prediction results for the RAG (Retrieval-Augmented Generation) setting.
+- `Closed_book` folder: Contains all the model code and prediction results for the closed book setting.
+- `RAG` folder: Contains all the model code and prediction results for the RAG (Retrieval-Augmented Generation) setting.
 - `Evaluation.ipynb`: Contains the evaluation of all predictions.
 
 
