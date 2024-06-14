@@ -16,7 +16,7 @@ You can run the Jupyter notebook separately depending on what you want to achiev
 - `Evaluation.ipynb`: Contains the evaluation of all predictions.
 
 
-## Examples
+## Example
 **Question**: *List all positions Oleksandr Turchynov, also known as Oleksandr Valentynovych Turchynov, held from 2010 to 2020*  
 **[Answer]**:  
     - President of Ukraine (2010, 2011, 2012, 2013, 2014)
